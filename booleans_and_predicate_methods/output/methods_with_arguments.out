@@ -1,0 +1,5 @@
+Methods with arguments, include?
+Andrew includes 'A': true
+Andrew includes 'a': false
+Andrew includes 'w': true
+Andrew includes 'W': false
