@@ -1,0 +1,6 @@
+== Methods with multiple arguments ==
+10 is between 10 and 50: true
+50 is between 10 and 50: true
+40 is between 10 and 50: true
+5 is between 10 and 50: false
+55 is between 10 and 50: false
