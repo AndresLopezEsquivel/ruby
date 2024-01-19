@@ -1,0 +1,10 @@
+== Float methods ==
+9.8.floor = 9
+9.8.floor.class = Integer
+4.1.ceil = 5
+4.1.ceil.class = Integer
+3.2.round = 3
+3.5.round = 4
+3.8.round = 4
+3.245.round(2) = 3.25
+3.51238.round(4) = 3.5124
