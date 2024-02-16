@@ -1,4 +1,5 @@
 # Monkey patching - Add functionality to an exisiting class
+# Here we are not overriding any method
 
 class String
     def count_vowels
