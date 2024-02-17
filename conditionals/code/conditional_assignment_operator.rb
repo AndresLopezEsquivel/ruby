@@ -2,6 +2,8 @@
 # assign a value to a variable based on a condition/criteria.
 # If a variable's value is nill, it assigns a new value to that variable
 
+# Check: https://stackoverflow.com/questions/995593/what-does-or-equals-mean-in-ruby
+
 value = nil
 p value # prints nil
 
