@@ -5,7 +5,7 @@ b = a
 # To check the unique identifier of an object
 # use the object_id method
 puts "a.object_id = #{a.object_id}"
-puts "b.object_id = #{b.object_id}"  == a.object_id
+puts "b.object_id = #{b.object_id}" # == a.object_id
 # To create a copy of an object,
 # use either the dup method or the clone method
 # However, there is a difference between both methods
